@@ -352,3 +352,9 @@ Jibay AI is an active and continuously evolving project with ongoing improvement
 # ❤️ Jibay AI
 
 Built with passion, creativity, and a vision for the future of artificial intelligence.
+
+website: jibay.ir
+web chat: chat.jibay.ir
+api platform: platform.jibay.ir
+about we: jibay.ir/about-us
+support: jibay.ir/support
